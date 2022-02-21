@@ -35,5 +35,6 @@ Web based application using local data and data collected via Spotify to support
 - Director of Outreach Ithaca College Computer Science Club
 
 ![Discord](https://img.shields.io/badge/%3Ckepalmo101%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Gmail](https://img.shields.io/badge/kepalmo8@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 
