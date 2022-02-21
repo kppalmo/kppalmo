@@ -3,6 +3,7 @@
 ![Discord](https://img.shields.io/badge/%3Ckepalmo101%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Gmail](https://img.shields.io/badge/kepalmo8@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Facebook](https://img.shields.io/badge/KeeganPalmo-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/KeeganPalmo-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 I'm currently a junior Software engineer student at Ithaca College. My main focus is on full stack development of web apps, with a side passion in robotics, graphics, and everything computers!
 
