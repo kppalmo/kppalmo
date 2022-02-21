@@ -1,5 +1,9 @@
 ### Hi There! I'm Keegan :)
 
+![Discord](https://img.shields.io/badge/%3Ckepalmo101%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Gmail](https://img.shields.io/badge/kepalmo8@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Facebook](https://img.shields.io/badge/KeeganPalmo-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+
 I'm currently a junior Software engineer student at Ithaca College. My main focus is on full stack development of web apps, with a side passion in robotics, graphics, and everything computers!
 
 **Some Languages I've worked with:**
@@ -34,8 +38,6 @@ Web based application using local data and data collected via Spotify to support
 - Teaching Assistant for Intro to Computers Course (17100)
 - Director of Outreach Ithaca College Computer Science Club
 
-![Discord](https://img.shields.io/badge/%3Ckepalmo101%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Gmail](https://img.shields.io/badge/kepalmo8@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Facebook](https://img.shields.io/badge/KeeganPalmo-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+
 
 
