@@ -25,6 +25,6 @@ Web based application using local data and data collected via Spotify to support
 - Senior Dev Ops (Handle DB Backups, Technical Computer Work)
 
 ### Other Work: ###
-Teaching Assistant for Intro to Computers Course (17100)
-Director of Outreach Ithaca College Computer Science Club
+- Teaching Assistant for Intro to Computers Course (17100)
+- Director of Outreach Ithaca College Computer Science Club
 
