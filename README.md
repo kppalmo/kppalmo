@@ -31,7 +31,7 @@ The PAR (Practice, Assessment, Review) system is an Intelligent Tutor based web 
 - Worked on front end / UI / UX development (React, JS, HTML, CSS)
 - Implemented progress tracking component and visuals (React, JS, HTML, CSS)
 
-###### Localify ###### https://localify.org/
+###### Localify ######
 Web based application using local data and data collected via Spotify to support local music artist's using intelligent based playlist creation and music recommendations.
 - Senior Dev Ops (Handle DB Backups, Technical Computer Work)
 
