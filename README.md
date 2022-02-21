@@ -21,5 +21,10 @@ The PAR (Practice, Assesment, Review) system is an Intelligent Tutor based web a
 - Implemented progress tracking component and visuals (React, JS, HTML, CSS)
 
 ###### Localify ######
-Web based application using local data and data collected via Spotify to support local music artits using inteligent based playlist creation / music recomandation.
+Web based application using local data and data collected via Spotify to support local music artits using inteligent based playlist creation and music recomandation.
 - Senior Dev Ops (Handle DB Backups, Technical Computer Work)
+
+### Other Work: ###
+Teaching Assistant for Intro to Computers Course (17100)
+Director of Outreach Ithaca College Computer Science Club
+
