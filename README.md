@@ -3,7 +3,7 @@
 
 I'm currently a junior Software engineer student at Ithaca College. My main focus is on full stack development of web apps, with a side passion in robotics, graphics, and everything computers!
 
-<b>Some Languages I've worked with:</b>
+**Some Languages I've worked with:**
 - Java
 - Python
 - C
