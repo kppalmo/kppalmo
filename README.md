@@ -27,4 +27,4 @@ Web based application using local data and data collected via Spotify to support
 - Teaching Assistant for Intro to Computers Course (17100)
 - Director of Outreach Ithaca College Computer Science Club
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ** kepalmo8@gmail.com **
