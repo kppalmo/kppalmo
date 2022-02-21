@@ -1,5 +1,4 @@
 ### Hi There! I'm Keegan :)
-![Test](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
 
 I'm currently a junior Software engineer student at Ithaca College. My main focus is on full stack development of web apps, with a side passion in robotics, graphics, and everything computers!
 
@@ -28,4 +27,4 @@ Web based application using local data and data collected via Spotify to support
 - Teaching Assistant for Intro to Computers Course (17100)
 - Director of Outreach Ithaca College Computer Science Club
 
-
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
