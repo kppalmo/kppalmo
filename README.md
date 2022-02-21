@@ -36,5 +36,6 @@ Web based application using local data and data collected via Spotify to support
 
 ![Discord](https://img.shields.io/badge/%3Ckepalmo101%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Gmail](https://img.shields.io/badge/kepalmo8@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Facebook](https://img.shields.io/badge/Keegan Palmo-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 
 
