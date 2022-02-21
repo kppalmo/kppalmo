@@ -1,5 +1,7 @@
 ### Hi There! I'm Keegan :)
 
+![Discord](https://img.shields.io/badge/%3Ckppalmo%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+
 I'm currently a junior Software engineer student at Ithaca College. My main focus is on full stack development of web apps, with a side passion in robotics, graphics, and everything computers!
 
 **Some Languages I've worked with:**
