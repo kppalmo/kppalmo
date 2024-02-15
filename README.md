@@ -1,11 +1,17 @@
-# Hi There! I'm Keegan :) #
+# Hi There! I'm Keegan #
 
 ![Discord](https://img.shields.io/badge/%3Ckepalmo101%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Gmail](https://img.shields.io/badge/kepalmo8@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Facebook](https://img.shields.io/badge/KeeganPalmo-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/KeeganPalmo-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-I'm currently a junior Software engineer student at Ithaca College. My main focus is on full stack development of web apps, with a side passion in robotics, graphics, and everything computers!
+Computer Science Graduate, Ithaca College (2023) | Master's Candidate at RIT in Computer Science
+
+I'm Keegan Palmo, a passionate and dedicated computer science professional who graduated with a Bachelor of Science from Ithaca College in 2023. Currently, I am furthering my expertise in the field by pursuing a Master's degree in Computer Science at the Rochester Institute of Technology (RIT).
+
+My academic journey has been marked by a strong commitment to learning and innovation. At Ithaca, I honed my skills in software development, data structures, and algorithmic problem-solving, preparing myself for the complex challenges of the tech industry. Now at RIT, I am expanding my knowledge base, focusing on advanced topics like artificial intelligence, machine learning, and data analytics.
+
+I am particularly interested in applying my computer science skills to develop solutions that make a significant impact in the tech world. Whether working on individual projects or collaborating in team settings, I bring a blend of technical proficiency, creative thinking, and a keen eye for detail.
 
 **Some Languages I've worked with:**
 - Java
